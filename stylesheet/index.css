@@ -154,6 +154,8 @@ body {
     }
     .section-main__image {
         width: 50%;
+        border-radius: 6px;
+        margin-right: 25px;
     }
     .section {
         display: flex;
